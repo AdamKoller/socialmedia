@@ -103,7 +103,7 @@ header .search-area input:focus {
 */
 #top-area {
   padding:200px 15px 90px 15px;
-  background: url('./img/man.jpeg') center center;
+  background: url('man.jpeg') center center;
   background-repeat: no-repeat;
 }
 #top-area .profile-info .user-img {
@@ -290,7 +290,7 @@ font-size: 20px;
 #content-area .main-area .widget-box.post .head .user-img{
   display: inline-block;
   float: left;
-  background: url('./img/leonardo.jpeg') no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;
+  background: url('leonardo.jpeg') no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;
   height: 40px;
   width: 40px;
   margin: 0;
